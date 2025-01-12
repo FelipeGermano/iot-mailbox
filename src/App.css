@@ -1,0 +1,42 @@
+.app-container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.control-panel {
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  margin-right: 10px;
+}
+
+.output-section {
+  margin-top: 20px;
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
+
+.notifications {
+  padding: 10px;
+  border: 1px solid #000;
+  background-color: #f0f0f0;
+  margin-bottom: 20px;
+}
+
+.logs {
+  height: 200px;
+  overflow-y: scroll;
+  border: 1px solid #000;
+  background-color: #f9f9f9;
+  padding: 10px;
+}
+
+.log-message {
+  color: black;
+}
+
+.log-notification {
+  color: red;
+  font-weight: bold;
+}
